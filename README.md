@@ -28,8 +28,8 @@
 ![Python](./assets/python.svg) ![Bash](./assets/gnubash.svg) ![Linux](./assets/linux.svg) ![Cybersecurity](./assets/security.svg) ![Ethical Hacking](./assets/ethical-hacking.svg) ![Penetration Testing](./assets/penetration-testing.svg) ![Web Security](./assets/web-security.svg) ![Network Security](./assets/network-security.svg) ![OSINT](./assets/osint.svg) ![Reverse Engineering](./assets/reverse-engineering.svg) ![Malware Analysis](./assets/malware-analysis.svg) ![Digital Forensics](./assets/digital-forensics.svg) ![Cryptography](./assets/cryptography.svg)
 
 🛡️ **Fair play** · Soft Check / Cheat Hunter · I review suspicious gameplay.  
-🧬 **Biology × code** · I’d like to build a DNA sequence viewer for students.
+🧬 **Biology × code** · I’m interested in biotechnology and want to build software that makes everyday work easier for life scientists and healthcare professionals.
 
-**Languages** · Georgian (native) · English (intermediate) · Russian (conversational) · German (basic)
+**Languages** · Georgian (native) · English (B2+) · Russian (B2+) · German (basic)
 
 [GitHub · @Kencho007](https://github.com/Kencho007) · [ASCII source](./assets/grim-reaper.txt)
