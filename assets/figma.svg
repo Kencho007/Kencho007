@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="32" viewBox="0 0 110 32" role="img" aria-labelledby="title desc"><title id="title">Figma</title><desc id="desc">Interface design tool</desc><style>.steel{fill:#9aefb7}.bone{fill:#e2ffdf}.ridge{fill:#80eda4}.cloth{fill:#3eae70}.etch{fill:#479468}</style>
+<rect x="0.5" y="0.5" width="109" height="31" fill="#101713" stroke="#31533c"/>
+<g transform="translate(12 5) scale(.73)"><path d="M0 5a5 5 0 0 1 5-5h5v10H5a5 5 0 0 1-5-5Z" fill="#e1f4e6"/><path d="M10 0h5a5 5 0 1 1 0 10h-5Z" fill="#9ae7ae"/><path d="M0 15a5 5 0 0 1 5-5h5v10H5a5 5 0 0 1-5-5Z" fill="#71cf92"/><circle cx="15" cy="15" r="5" fill="#6bff9c"/><path d="M0 25a5 5 0 0 1 5-5h5v5a5 5 0 1 1-10 0Z" fill="#35c975"/></g>
+<text x="39" y="22" fill="#e4eee7" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" font-weight="700" letter-spacing="0">Figma</text>
+</svg>
